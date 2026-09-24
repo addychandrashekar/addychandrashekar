@@ -2,10 +2,10 @@
 
 🎓 Master’s (Sc.M.) in Computer Science @ Brown University
 
-💻 Software Engineering + Applied AI/ML
+💻 Software Engineering + Deep Learning / AI
 
 🔧 Experience across production software systems, backend development, computer vision, and AI-enabled products
 
-🚀 Previously worked on production systems at FlightAware, autonomous-vehicle perception with Buckeye AutoDrive, and co-founded an AI-powered learning product
+🚀 Built production systems at FlightAware, worked on autonomous-vehicle perception with Buckeye AutoDrive, and co-founded an AI-powered learning product
 
-🧠 Interested in software engineering, AI engineering, machine learning, and backend/cloud systems
+🧠 Interested in deep learning, computer vision, AI engineering, software engineering, and backend/cloud systems
